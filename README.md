@@ -3,7 +3,7 @@
 I'm Mofeoluwa, a backend developer.
 
 - 🔭 I’m currently working on NodeJs and Flask apps
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently working with Typescript
 - 👯 I’m looking to collaborate on opensource projects
 - 📫 How to reach me: [lijsamobafunmilayo@gmail.com](mailto:lijsamobafunmilayo)
 - 😄 Pronouns: He/Him
